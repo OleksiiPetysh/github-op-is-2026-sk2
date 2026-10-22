@@ -12,3 +12,4 @@ C:\is-project\program001\obj\Debug\net8.0\refint\program001.dll
 C:\is-project\program001\obj\Debug\net8.0\program001.pdb
 C:\is-project\program001\obj\Debug\net8.0\program001.genruntimeconfig.cache
 C:\is-project\program001\obj\Debug\net8.0\ref\program001.dll
+C:\is-project\program001\obj\Debug\net8.0\program001.sourcelink.json

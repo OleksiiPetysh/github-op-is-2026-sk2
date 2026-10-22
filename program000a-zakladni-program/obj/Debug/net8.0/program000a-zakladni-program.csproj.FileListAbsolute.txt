@@ -1,0 +1,15 @@
+C:\is-project\program000a-zakladni-program\bin\Debug\net8.0\program000a-zakladni-program.exe
+C:\is-project\program000a-zakladni-program\bin\Debug\net8.0\program000a-zakladni-program.deps.json
+C:\is-project\program000a-zakladni-program\bin\Debug\net8.0\program000a-zakladni-program.runtimeconfig.json
+C:\is-project\program000a-zakladni-program\bin\Debug\net8.0\program000a-zakladni-program.dll
+C:\is-project\program000a-zakladni-program\bin\Debug\net8.0\program000a-zakladni-program.pdb
+C:\is-project\program000a-zakladni-program\obj\Debug\net8.0\program000a-zakladni-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\is-project\program000a-zakladni-program\obj\Debug\net8.0\program000a-zakladni-program.AssemblyInfoInputs.cache
+C:\is-project\program000a-zakladni-program\obj\Debug\net8.0\program000a-zakladni-program.AssemblyInfo.cs
+C:\is-project\program000a-zakladni-program\obj\Debug\net8.0\program000a-zakladni-program.csproj.CoreCompileInputs.cache
+C:\is-project\program000a-zakladni-program\obj\Debug\net8.0\program000a-zakladni-program.sourcelink.json
+C:\is-project\program000a-zakladni-program\obj\Debug\net8.0\program000a-zakladni-program.dll
+C:\is-project\program000a-zakladni-program\obj\Debug\net8.0\refint\program000a-zakladni-program.dll
+C:\is-project\program000a-zakladni-program\obj\Debug\net8.0\program000a-zakladni-program.pdb
+C:\is-project\program000a-zakladni-program\obj\Debug\net8.0\program000a-zakladni-program.genruntimeconfig.cache
+C:\is-project\program000a-zakladni-program\obj\Debug\net8.0\ref\program000a-zakladni-program.dll
