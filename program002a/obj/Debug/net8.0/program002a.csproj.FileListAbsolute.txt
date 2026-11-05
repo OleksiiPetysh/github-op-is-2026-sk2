@@ -1,0 +1,15 @@
+C:\is-project\program002a\bin\Debug\net8.0\program002a.exe
+C:\is-project\program002a\bin\Debug\net8.0\program002a.deps.json
+C:\is-project\program002a\bin\Debug\net8.0\program002a.runtimeconfig.json
+C:\is-project\program002a\bin\Debug\net8.0\program002a.dll
+C:\is-project\program002a\bin\Debug\net8.0\program002a.pdb
+C:\is-project\program002a\obj\Debug\net8.0\program002a.GeneratedMSBuildEditorConfig.editorconfig
+C:\is-project\program002a\obj\Debug\net8.0\program002a.AssemblyInfoInputs.cache
+C:\is-project\program002a\obj\Debug\net8.0\program002a.AssemblyInfo.cs
+C:\is-project\program002a\obj\Debug\net8.0\program002a.csproj.CoreCompileInputs.cache
+C:\is-project\program002a\obj\Debug\net8.0\program002a.sourcelink.json
+C:\is-project\program002a\obj\Debug\net8.0\program002a.dll
+C:\is-project\program002a\obj\Debug\net8.0\refint\program002a.dll
+C:\is-project\program002a\obj\Debug\net8.0\program002a.pdb
+C:\is-project\program002a\obj\Debug\net8.0\program002a.genruntimeconfig.cache
+C:\is-project\program002a\obj\Debug\net8.0\ref\program002a.dll
